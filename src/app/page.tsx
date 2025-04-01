@@ -60,6 +60,7 @@ function Home() {
               <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
                 <span className="block text-white mb-4">Revolutionizing</span>
                 <span className="block text-green-200">Agricultural Commerce</span>
+   
               </h1>
               <p className="mt-6 max-w-lg mx-auto text-center text-xl text-green-50 sm:max-w-3xl leading-relaxed">
                 Connect directly with farmers and buyers, enable smart contract farming, and make secure payments - all in one revolutionary platform.
